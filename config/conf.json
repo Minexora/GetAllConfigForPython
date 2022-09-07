@@ -1,0 +1,25 @@
+{
+  "databases": [
+    {
+      "id": "1",
+      "db_type": "mysql",
+      "host": "",
+      "port": "",
+      "ssh_user": "",
+      "db_name": "",
+      "db_user": "",
+      "pass": ""
+    },
+    {
+      "id": "2",
+      "db_type": "postgresql",
+      "host": "",
+      "port": "",
+      "ssh_user": "",
+      "db_name": "",
+      "db_user": "",
+      "pass": ""
+    }
+  ],
+  "default_db_id": "1"
+}
